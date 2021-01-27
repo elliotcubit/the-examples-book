@@ -1,5 +1,7 @@
 # Scholar {#scholar}
 
+## Test change
+
 ## Connecting to Scholar {#connecting-to-scholar}
 
 There are a variety of ways to connect to Scholar; however, the primary method (and maybe the only method) we will use this semester is [RStudio Server Pro](#rstudio-server-pro). To see how one may approach solving a project this semester, watch Dr. Ward connect to RStudio Server Pro and demonstrate how to compile a project [here](#templates).
